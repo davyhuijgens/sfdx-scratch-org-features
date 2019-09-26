@@ -18,6 +18,7 @@
 ### ChatterAnswersUser
 ### Communities
 ### ContactsToMultipleAccounts
+  Enables [Contacts to multiple accounts](https://help.salesforce.com/articleView?id=shared_contacts_overview.htm&type=5) in the Account Settings
 ### ContractApprovals
 ### CPQ
 ### CustomerSelfService
