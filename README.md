@@ -46,6 +46,7 @@
 ### FlowSites
 ### ForceComPlatform
 ### HealthCloudUser
+  Provides Health CLoud and Health Cloud PLatform permission set licenses and Health Cloud Functionality.
 ### HighVelocitySales
 ### IndustriesManufacturing
 ### InsightsPlatform
