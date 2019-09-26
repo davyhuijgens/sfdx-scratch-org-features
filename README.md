@@ -17,6 +17,7 @@
 ### ChatterAnswers
 ### ChatterAnswersUser
 ### Communities
+  Enables Communities in the Communities Settings
 ### ContactsToMultipleAccounts
   Enables [Contacts to multiple accounts](https://help.salesforce.com/articleView?id=shared_contacts_overview.htm&type=5) in the Account Settings
 ### ContractApprovals
