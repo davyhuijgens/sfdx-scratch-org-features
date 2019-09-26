@@ -42,6 +42,7 @@
   Provides External Identity licenses in the scratch org
 ### ExternalSharing (not available in Group Edition)
 ### FieldService
+  Provides a Field Service Standard permission set license, and the option to enable Field Service Lightning from Field Service Settings to access the full range of field service features including workforce management and schedule optimization
 ### FlowSites
 ### ForceComPlatform
 ### HealthCloudUser
