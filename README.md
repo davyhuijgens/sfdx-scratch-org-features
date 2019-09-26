@@ -39,6 +39,7 @@
 ### EventLogFile
 ### ExperienceBundle
 ### ExternalIdentityLogin
+  Provides External Identity licenses in the scratch org
 ### ExternalSharing (not available in Group Edition)
 ### FieldService
 ### FlowSites
@@ -64,6 +65,8 @@
 ### MultiCurrency
 ### OfflineUser
 ### Pardot
+### PartnerCommunity
+  Provides Partner Community licenses in the scratch org
 ### PersonAccounts
 ### PlatformCache
 ### PlatformEncryption
