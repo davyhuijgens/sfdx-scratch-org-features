@@ -67,7 +67,7 @@
 ### MaxCustomLabels:<value>
 ### MobileUser
 ### MultiCurrency
-  Enables [Multi Currency](https://help.salesforce.com/articleView?id=admin_currency.htm&type=5) on the Company Nformation Page
+  Enables [Multi Currency](https://help.salesforce.com/articleView?id=admin_currency.htm&type=5) on the Company Information page
 ### OfflineUser
 ### Pardot
 ### PartnerCommunity
