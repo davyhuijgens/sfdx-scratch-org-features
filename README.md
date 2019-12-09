@@ -22,6 +22,8 @@
   Enables [Contacts to multiple accounts](https://help.salesforce.com/articleView?id=shared_contacts_overview.htm&type=5) in the Account Settings
 ### ContractApprovals
 ### CPQ
+### CustomerCommunity
+  Provides a Customer Community license in the scratch org
 ### CustomerSelfService
 ### CustomNotificationType
 ### DatacomDnbAccounts
@@ -71,7 +73,7 @@
 ### OfflineUser
 ### Pardot
 ### PartnerCommunity
-  Provides Partner Community licenses in the scratch org
+  Provides a Partner Community license in the scratch org
 ### PersonAccounts
 ### PlatformCache
 ### PlatformEncryption
